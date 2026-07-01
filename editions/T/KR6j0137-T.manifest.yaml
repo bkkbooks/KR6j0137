@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0137/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0137/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來說佛頂輪王一百八名讚
+  identifiers:
+    krp: KR6j0137
+    cbeta: T19n0960
+    cbeta_old_id: T19n0960
+    authorityid: CA0003726
+    json_key: T0960
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0960.xml
+    old_id: T19n0960
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0137_000-T.yaml, hash: 'sha256:a30f1e472c10129f777e71561a17f478ce4ace762981e72a73fa4a117415ec9c'}
+  - {seq: 1, filename: KR6j0137_001-T.yaml, hash: 'sha256:106b0ff8eb5f2bf76242ec85f738a6feed75f71296562bdbf228cb19a16495bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0137_000-T.markers.yaml, hash: 'sha256:4db1cc4b9c3afb4f71c0c95995e9e95891bb841493b9fdbf4d5b3f1e1b10fe3c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0137_001-T.markers.yaml, hash: 'sha256:df54d7adabfca157ccc6d66288301528f8d84382b1ffaa9fb8d3acc047f5433d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0137_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 430
+  label: '一切如來說佛頂輪王一百八名
+
+    讚'
+  type: juan
+  level: 1
+hash: sha256:54a7976a2ce8f6dd080deaef78f6ea030c1aaa820d077b63687e0b9550e71f64

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0137/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來說佛頂輪王一百八名讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0960.xml
+    old_id: T19n0960
+hash: sha256:a30f1e472c10129f777e71561a17f478ce4ace762981e72a73fa4a117415ec9c
